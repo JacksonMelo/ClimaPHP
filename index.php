@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>Clima e Tempo de Brusque-SC</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
@@ -14,7 +14,37 @@ and open the template in the editor.
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         
         <script src="js/clima.js"></script>
+        <!-- Tags Gerais -->
+        <meta NAME="DESCRIPTION" CONTENT="Site de informações de Brusque e região - Desenvolvido por JacksonMelo"/>
+        <meta NAME="ABSTRACT" CONTENT="Informações climáticas"/>
+        <meta name="keywords" content="Clima,temperatura, temperatura em Brusque,  Tempo de brusque, umidade de Brusque, Previsão para Brusque, Clima para Brusque, Temperatura climática em Brusque, Por do sol em Brusque, Nascer do sol em Brusque, Velociodade do vento em Brusque, Previsão de chuva para Brusque"/>
+        <meta NAME="title" CONTENT="Clima e Tempo de Brusque-SC" />
+        <meta NAME="identifier-url" content="https://jackson-clima-senai.herokuapp.com" />
+        <meta NAME="author" content="Jackson Melo" />
+        <meta NAME="ROBOTS" CONTENT="All" />
+        <meta NAME="RATING" CONTENT="general" />
+        <meta NAME="DISTRIBUTION" CONTENT="global" />
+        <meta NAME="LANGUAGE" CONTENT="pt-br" />
+        <meta name="content-language" content="portuguese" />
+        <meta name="doc-class" content="Completed" /> 
+        <meta name="reply-to" content="jackson_nascimento@estudante.sc.senai.br"/>    
         
+        <!-- Tags Para rede social Facebook -->
+        <meta property="og:url" content="https://jackson-clima-senai.herokuapp.com" />
+        <meta property="og:locale" content="pt_BR" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="WebSite" />
+        <meta property="og:title" content="Clima e Tempo de Brusque-SC" />
+        <meta property="og:description" content="Site de informações de Brusque e região - Desenvolvido por JacksonMelo" />
+        <meta property="og:image" content="https://jackson-clima-senai.herokuapp.com/img/porDoSol.jpg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="120" />
+        <meta property="fb:app_id" content="" />
+        
+        <!-- Tags Para rede social Twitter -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:description" content="Site de informações de Brusque e região - Desenvolvido por JacksonMelo" />
+        <meta name="twitter:title" content="Clima e Tempo de Brusque-SC" />
     </head>
     <body>
         <div class="alert alert-secondary" role="alert">
